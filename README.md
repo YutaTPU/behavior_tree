@@ -18,7 +18,7 @@ Behavior tree の非常に簡単な部分を作成しました。
 - GUIをつくる
 
 # ビルド状態
-[![MSBuild](https://github.com/tpu-game-2021/behavior_tree/actions/workflows/msbuild.yml/badge.svg)](https://github.com/tpu-game-2021/behavior_tree/actions/workflows/msbuild.yml)
+[![MSBuild](https://github.com/YutaTPU/behavior_tree/actions/workflows/msbuild.yml/badge.svg)](https://github.com/YutaTPU/behavior_tree/actions/workflows/msbuild.yml)
 
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
